@@ -1,7 +1,6 @@
 # 👋 Hey there! I’m [@FabianoLothor](https://github.com/FabianoLothor)
 
-![FL Studios Logo](https://github.com/FabianoLothor/FabianoLothor/blob/main/fl-studios.png)
-
+- https://fabianolothor.com/
 - https://studios.fabianolothor.com/
 
 ### Public Repositories
