@@ -26,4 +26,4 @@ Please, follow me at GitLab 🧡🧡🧡
 - 📙 StackOverflow? [@FabianoLothor](https://stackoverflow.com/users/1545939/fabianolothor)
 - 🕹️ Steam? [/FabianoLothor](https://steamcommunity.com/id/fabianolothor)
 - 👾 Twitch? [/FabianoLothor](https://www.twitch.tv/FabianoLothor)
-- 📽️ Youtube? [Fabiano Lothor](https://www.youtube.com/channel/UC1t0MhfgPfyxN052ymCKf0Q/)
+- 📽️ Youtube? [@FabianoLothor]([https://www.youtube.com/channel/UC1t0MhfgPfyxN052ymCKf0Q/](https://www.linkedin.com/in/fabianolothor/)https://www.linkedin.com/in/fabianolothor/)
