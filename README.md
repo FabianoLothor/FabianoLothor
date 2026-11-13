@@ -1,7 +1,6 @@
 # 👋 Hey there! I’m [@FabianoLothor](https://github.com/FabianoLothor)
 
-- https://fabianolothor.com/
-- https://studios.fabianolothor.com/
+- https://fabiano.co/
 
 ### Public Repositories
 
@@ -9,15 +8,13 @@ I avoid to use GitHub 🖤
 
 Please, follow me at GitLab 🧡🧡🧡
 
-- 🦊 https://gitlab.com/fabianolothor
-- 🦊 https://gitlab.com/fl-studios
-- 🦊 https://gitlab.com/fabianolothor-forks
+- 🦊 https://fabiano.co/glab
 
 ### Social & Contact
 
-- ℹ️ LinkedIn? [/in/fabianolothor](https://www.linkedin.com/in/fabianolothor/)
-- 🐦 Twitter? [@FabianoLothor](https://twitter.com/FabianoLothor)
-- 📨 Mail? [fabiano.lothor@gmail.com](mailto:fabiano.lothor@gmail.com)
+- ℹ️ LinkedIn? [/in/fabianolothor](https://fabiano.co/linkedin)
+- 🐦 Twitter? [@FabianoLothor](https://fabiano.co/twitter)
+- 📨 Mail? [ghub@fabiano.co](mailto:ghub@fabiano.co)
 
 ---
 
